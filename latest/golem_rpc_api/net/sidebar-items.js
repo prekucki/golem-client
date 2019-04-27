@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NetStatus",""],["NodeInfo",""],["PeerInfo",""]],"trait":[["GolemNet",""]]});
